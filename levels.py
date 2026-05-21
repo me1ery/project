@@ -1,0 +1,43 @@
+level1 = [
+    "WWWWWWWWWWWWWWWWWW",
+    "WP         WWW   W",
+    "WWWWWWLWSW WWW W W",
+    "WWWLLLLWSW     W W",
+    "W    WWWSWWWWW W W",
+    "W WWKW     WWWKW W",
+    "W WWWW WWW WWWWW W",
+    "W  WWW W         W",
+    "W  WWW W WWWW WW W",
+    "WW WKW W WWWW WWWW",
+    "WW     W WK   LLLW",
+    "WWWWWWWW WWWWWWWWW",
+    "W   LLL          W",
+    "WWWWWLWWWWWW WWWWW",
+    "WWWWWLLLWW   WWWWW",
+    "WWWWWDWWWWWWDWWWWW",
+    "WWWWW        WWWWW",
+    "WWWWWWWWEEWWWWWWWW",
+]
+level2 = [
+    "WWWWWWWWWWWWWWWWWW",
+    "W         WWWK   W",
+    "WWWWWW W WKWWW W W",
+    "WWW    W       W W",
+    "W    WWWSWWWW  W W",
+    "W WWWWWWSWWWWKW  W",
+    "W WWWW    WWWWWW W",
+    "W  WWWDWW W      W",
+    "W  WWWDWEEWKWLLW W",
+    "WW WWWDWWWWWWWWW W",
+    "WW     W         W",
+    "WW WWWWW WWWWWWWWW",
+    "WWKW        LLLLLW",
+    "WWWWW WWWWWWLWWWWW",
+    "WWWWW  WWWWLLWWWWW",
+    "W  W    WW    W KW",
+    "WW    W    W    WW",
+    "WWWWWWWWP WWWWWWWW",
+]
+
+
+levels = [level1, level2]
